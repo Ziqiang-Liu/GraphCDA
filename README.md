@@ -1,8 +1,7 @@
 # GraphCDA
 This code is the implementation of GraphCDA
 
-GraphCDA: a multi-modal graph representation learning framework for predicting circRNA-disease associations
-
+GraphCDA: a hybrid graph representation learning framework based on GCN and GAT for predicting disease associated circRNAs
 #### Requirements
 
 python (tested on version 3.7.11)
