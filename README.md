@@ -12,8 +12,8 @@ GraphCDA: a hybrid graph representation learning framework based on GCN and GAT 
 
 #### Quick start
 
-* To reproduce our results:  
-* Run code\main.py to RUN GraphCDA.  
+To reproduce our results:  
+Run code\main.py to RUN GraphCDA.  
 
 #### Folder
 
