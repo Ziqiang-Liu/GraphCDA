@@ -19,6 +19,7 @@ Run code\main.py to RUN GraphCDA.
 
 * code: Model code of GraphCDA.  
 * datasets: Data required by GraphCDA.  
+* otherdatasets: several public databases
 * results: Results of GraphCDA run.
 
 
