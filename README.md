@@ -1,6 +1,8 @@
 # GraphCDA
 This code is the implementation of GraphCDA
-
+<br>
+<br>
+<br>
 GraphCDA: a hybrid graph representation learning framework based on GCN and GAT for predicting disease associated circRNAs[J]. *Briefings in Bioinformatics*, 2022,23(5):bbac379.
 <br>
 中科院 SCI分区（2020基础版）  **生物学 1 区**，**JCR Q1**，影响因子：**13.994**，**TOP** 期刊 
